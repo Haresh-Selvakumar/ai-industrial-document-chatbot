@@ -1,0 +1,9 @@
+streamlit>=1.37,<2
+transformers>=4.44,<6
+torch>=2.3
+sentence-transformers>=3.0,<6
+faiss-cpu>=1.8
+PyMuPDF>=1.24
+sentencepiece>=0.2
+numpy>=1.26,<3
+

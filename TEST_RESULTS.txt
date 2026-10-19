@@ -1,0 +1,17 @@
+Automated Test Summary
+======================
+
+Command:
+python -m unittest discover -s tests -v
+
+Result:
+7 tests passed
+
+Covered functions:
+- Text cleaning
+- Overlapping chunk creation
+- TXT document extraction
+- Prompt guardrail construction
+- Complete safety-section extraction
+- Numbered startup-procedure extraction
+- Complete overheating-checklist extraction

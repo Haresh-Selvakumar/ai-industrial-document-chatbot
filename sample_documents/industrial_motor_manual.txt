@@ -1,0 +1,89 @@
+INDUSTRIAL INDUCTION MOTOR
+OPERATION, SAFETY AND MAINTENANCE GUIDE
+
+Document reference: IIM-OM-2026-01
+Equipment: Three-phase squirrel-cage induction motor
+Rated output: 5.5 kW
+Rated supply: 415 V AC, three phase, 50 Hz
+Rated speed: 1440 rpm
+Protection class: IP55
+Permitted ambient temperature: 0 °C to 40 °C
+
+1. SAFETY REQUIREMENTS
+
+WARNING: Isolate the motor from every electrical supply before inspection or maintenance. Apply lockout/tagout at the upstream isolator and verify absence of voltage using an approved tester. Stored mechanical energy and connected loads must also be secured before work begins.
+
+Only trained and authorised personnel may open the terminal box or modify electrical connections. Protective earth continuity must be confirmed before energising the motor. Do not operate the machine with exposed rotating parts or with the coupling guard removed. Wear safety shoes, eye protection and suitable hearing protection in the operating area.
+
+The motor surface may remain hot after shutdown. Allow at least 20 minutes of cooling time before touching the frame during maintenance. Never use water to clean an energised motor.
+
+2. PRE-START INSPECTION
+
+Before starting the motor:
+1. Confirm that the supply is 415 V AC, three phase, 50 Hz.
+2. Verify that the motor frame is correctly earthed.
+3. Inspect the coupling and confirm that the coupling guard is secured.
+4. Rotate the shaft manually, when isolated, to ensure that it moves freely.
+5. Check that ventilation openings are clean and unobstructed.
+6. Confirm that fasteners and foundation bolts are tight.
+7. Ensure that the connected load can start safely.
+
+3. STARTUP PROCEDURE
+
+Clear personnel and loose objects from the rotating equipment. Release lockout/tagout only after the work area has been inspected and all guards have been restored. Energise the control panel, then press the START push button once. Observe the direction of rotation from a safe position. Stop the motor immediately if the rotation is incorrect, if severe vibration occurs or if abnormal noise is heard.
+
+During the first five minutes of operation, observe the motor current, sound and vibration. The running current must not exceed the nameplate value. Record unusual behaviour in the maintenance log.
+
+4. NORMAL SHUTDOWN
+
+Remove or reduce the mechanical load where the driven process permits. Press the STOP push button and wait until the shaft has completely stopped. Isolate and lock out the electrical supply when maintenance, cleaning or prolonged shutdown is planned.
+
+5. PREVENTIVE MAINTENANCE SCHEDULE
+
+Every shift: Visually inspect the motor for abnormal noise, smell, vibration, loose guards and blocked ventilation openings.
+
+Monthly: Clean the external cooling fins and fan cover using dry compressed air at safe pressure. Check terminal-box sealing, cable glands, mounting bolts and earth connections.
+
+Every three months: Measure and record vibration at both bearing locations. Inspect alignment between the motor and driven equipment. Compare running current across all three phases.
+
+Every six months: Isolate the motor and inspect terminal tightness, insulation condition and bearing noise. Measure insulation resistance using a suitable insulation resistance tester and follow the manufacturer's test-voltage guidance.
+
+Annually: Conduct a complete shutdown inspection. Check winding condition, bearings, shaft alignment, earthing, protective devices and foundation integrity. Replace damaged seals and guards before returning the motor to service.
+
+6. TROUBLESHOOTING
+
+Motor does not start:
+- Confirm that all three supply phases are available.
+- Check the overload relay and control-circuit fuse.
+- Confirm that the emergency stop is released.
+- Isolate the equipment and check whether the driven load is mechanically jammed.
+
+Motor overheats:
+- Check for mechanical overload.
+- Verify that the running current does not exceed the nameplate rating.
+- Clean blocked ventilation openings and cooling fins.
+- Check for supply-voltage imbalance and loss of phase.
+- Inspect bearing condition and shaft alignment.
+- Confirm that the ambient temperature does not exceed 40 °C.
+
+Excessive vibration:
+- Stop the machine if vibration increases suddenly or becomes severe.
+- Inspect the foundation and mounting bolts.
+- Check coupling alignment and driven-equipment balance.
+- Inspect bearings for wear or damage.
+- Confirm that the shaft rotates freely while the equipment is isolated.
+
+Abnormal bearing noise:
+- Stop and isolate the motor.
+- Inspect lubrication condition according to the bearing manufacturer's instructions.
+- Check the bearing for contamination, excessive clearance or damage.
+- Replace a damaged bearing before restarting the motor.
+
+7. EMERGENCY CONDITIONS
+
+Press the emergency-stop control immediately if smoke, fire, severe vibration, electrical arcing, a burning smell or dangerous mechanical movement is observed. Isolate the incoming electrical supply if it is safe to do so. Do not restart the motor until the cause has been identified and corrected by authorised personnel.
+
+For an electrical fire, follow the site's emergency procedure and use only an extinguisher approved for energised electrical equipment. Do not use water.
+
+END OF DOCUMENT
+
